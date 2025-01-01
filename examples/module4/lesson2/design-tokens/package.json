@@ -49,6 +49,6 @@
     "directory": "examples/module4/lesson2/design-tokens"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   }
 }
